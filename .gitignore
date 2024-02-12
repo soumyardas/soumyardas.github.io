@@ -9,3 +9,4 @@ _site
 Gemfile.lock
 node_modules/
 vendor
+run_website_local.sh
