@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Data Science Collaborator @ Omdena</a>. Durgapur, India.
 
