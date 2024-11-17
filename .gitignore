@@ -10,4 +10,4 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
-local-setup.sh
+local_setup.sh
