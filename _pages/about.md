@@ -32,10 +32,11 @@ computational physics research. My academic journey included studying neutrino
 simulations for the [Deep Underground Neutrino Experiment
 (DUNE)](https://www.dunescience.org/) at [Fermilab](https://www.fnal.gov/), USA,
 and exploring carbon-based materials like graphene at [IISER
-Tirupati](https://www.iisertirupati.ac.in/). I have published seven research
-papers and presented at international conferences. This research foundation
-shaped my analytical rigor and commitment to continuous learning, skills I now
-apply to solving complex data challenges. Beyond my technical expertise, I am
-passionate about teaching and mentoring, having supported high school and
-college students in physics, math, and coding. Today, I enjoy collaborating on
-innovative projects that harness data to drive positive change.
+Tirupati](https://www.iisertirupati.ac.in/). I have published [seven research
+papers](https://scholar.google.com/citations?hl=en&user=rWal8HcAAAAJ&view_op=list_works&sortby=pubdate)
+and presented at international conferences. This research foundation shaped my
+analytical rigor and commitment to continuous learning, skills I now apply to
+solving complex data challenges. Beyond my technical expertise, I am passionate
+about teaching and mentoring, having supported high school and college students
+in physics, mathematics, and coding. Today, I enjoy collaborating on innovative
+projects that harness data to drive positive change.
