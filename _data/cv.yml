@@ -2,96 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Soumya Ranjan Das
+    - name: Email
+      value: mailbox.soumya90 [at] gmail.com
+    - name: Professional Summary
+      value: Data scientist with over a year of experience in analytics and
+            machine learning. Former computational physicist with more than
+            eight years of research experience in mathematical modeling of
+            materials and detector simulation.
     - name: Languages
-      value: English, German
+      value: Bengali (Native), English (Fluent), Hindi (Conversational)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Diploma in Data Science
+      institution: Indian Institute of Technology, Madras, India
+      year: 2022
+
+    - title: Master of Science (M.Sc.) in Physics
+      institution: Indian Institute of Technology, Delhi, India
+      year: 2013
+
+    - title: Bachelor of Science (B.Sc. Hons.) in Physics
+      institution: St. Xavier's College (Autonomous), Kolkata, India
+      year: 2011
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Freelance Machine Learning Engineer
+      institution: Omdena
+      year: 2023-2024
+      
+    - title: Research Fellow (DST-SERB Project, Department of Physics)
+      institution: Indian Institute of Science Education and Research, Tirupati, India
+      year: 2016-2021
+      
+    - title: Research Fellow (Department of Physics)
+      institution: Indian Institute of Technology, Guwahati, India
+      year: 2014-2016
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Volunteering
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Delivery and Quality Assurance (DQA) Analyst
+      institution: Statistics Without Borders (SWB)
+      year: 2025-Now
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Research Poster Awards at
+        - 64th DAE Solid State Physics Symposium at IIT Jodhpur 
+        - Symposium of Advanced Simulation Methods at IIT Delhi, India
+    - year: 2008-2013
       items:
-        - Max Planck Medal
+        - Inspire Scholarship by Department of Science and Technology, Government of India
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch)
+    - title: Databases
       items:
-        - Description 1.
-        - Description 2.
-
+        - SQL (MySQL, PostgreSQL)
+        - NoSQL (MongoDB)
+    - title: Data Analytics and Visualization
+      items:
+        - Tableau, Power BI, Excel
+    - title: Web Frameworks
+      items:
+        - Flask, FastAPI
+    - title: Cloud Platforms
+      items:
+        - AWS (EC2, S3, RDS, Lambda, Sagemaker)
+        - Azure (Blob Storage, Functions, Data Lake, Azure ML)
+        
 - title: Other Interests
-  type: list
+  type: list 
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Science and Technology, Education, Human Rights, Animal Welfare, Environment.
