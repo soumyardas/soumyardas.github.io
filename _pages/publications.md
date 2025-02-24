@@ -11,10 +11,11 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-![A cloud tag with my research topics](/assets/img/publications_word-cloud.png)
-
-<div style="text-align: center;">
-    <em>A tag cloud generated from the abstracts of my research papers in Computational Materials Science.</em>
+<div class="text-center">
+    <img src="/assets/img/publications_word-cloud.png" class="img-fluid" alt="A cloud tag with my research topics">
+    <div>
+        <em>A tag cloud generated from the abstracts of my research papers in Computational Materials Science.</em>
+    </div>
 </div>
 
 {% include bib_search.liquid %}
