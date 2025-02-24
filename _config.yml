@@ -10,10 +10,11 @@ email: mailbox.soumya90@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website of Soumya Ranjan Das
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a
+  href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: personal-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://soumyardas.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -106,7 +107,9 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Feel free to reach out at <a href="mailto:soumyardas@soumyardas.com">soumyardas@soumyardas.com</a> or connect with me on any of the social links above.
+  Feel free to reach out at <a
+  href="mailto:soumyardas@soumyardas.com">soumyardas@soumyardas.com</a>
+  or connect with me on any of the social links above.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -124,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Gradient Descent # blog_name will be displayed in your blog page
+blog_name: Mindful Metrics # blog_name will be displayed in your blog page
 blog_description: Random Musings on Life, Science, and Technology # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
@@ -134,8 +137,8 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
-  max_related: 5
+  enabled: false
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -282,8 +285,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+#display_tags: [] # these tags will be displayed on the front page of your blog
+#display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
